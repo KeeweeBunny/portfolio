@@ -3,9 +3,10 @@ title: Portfolio
 subtitle: Maxime Ravet
 email: maxime.ravet@epitech.eu
 # description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://KeeweeBunny.github.io" # the base hostname & protocol for your site
+baseurl: "/W-POR-100-LIL-1-1-portfolio-4" # the subpath of your site, e.g. /blog
+url: "https://EpitechWebAcademiePromo2027.github.io" # the base hostname & protocol for your site
 author: "Maxime Ravet"
+github_username: KeeweeBunny
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
