@@ -71,7 +71,8 @@ Ces derniers m’auront permis de développer aussi bien des soft skills que des
 - Git plus en profondeur.
 - Utilisation d'un générateur de site statique.
 
-👉 <a href="https://github.com/KeeweeBunny/forty-jekyll-theme" target="_blank">Voir mon portfolio sur Github</a><br>
+👉 <a href="https://github.com/KeeweeBunny/portfolio" target="_blank">Voir mon portfolio sur Github</a><br>
+👉 <a href="https://keeweebunny.github.io/portfolio/" target="_blank">Voir mon portfolio déployé via Github Pages</a>
 
 ---
 <!-- 
