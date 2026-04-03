@@ -57,7 +57,7 @@ Voici quelques technologies et outils que j’utilise :
 
 Si vous souhaitez me contacter ou en savoir plus sur mon profil :
 
-<p>👉 <a href="{{ '/about/' | relative_url }}">Page contact
+<p>👉 <a href="{{ '/contact/' | relative_url }}">Page contact
 </a> <br>
 👉 <a href="https://github.com/KeeweeBunny" target="_blank">Voir mon profil GitHub
 </a> <br>

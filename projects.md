@@ -20,13 +20,14 @@ Ces derniers m’auront permis de développer aussi bien des soft skills que des
 ### 🔹 Sensivenir
 **Contexte :** Projet individuel.  
 **Objectif :** Maquettage et développement d'un blog.  
-**Technologies :** HTML, CSS, JS. 
-**Compétences acquises :**
+**Technologies :** HTML, CSS, JS.<br>
+**Compétences acquises :**  
 - Maquettage de zéro depuis une idée.
 - Découverte du JS, mise en œuvre des notions HTML & CSS ultérieurement apprises.
 - Travail en autonomie.
 
-👉 <a href="https://github.com/KeeweeBunny/Sensivenir-BTech-43/tree/main" target="_blank">Voir Sensivenir sur Github</a>
+👉 <a href="https://github.com/KeeweeBunny/Sensivenir-BTech-43/tree/main" target="_blank">Voir Sensivenir sur Github</a> <br>
+👉 <a href="https://keeweebunny.github.io/Sensivenir-BTech-43/" target="_blank">Voir Sensivenir déployé via Github Pages</a>
 
 ---
 
@@ -35,7 +36,7 @@ Ces derniers m’auront permis de développer aussi bien des soft skills que des
 ### 🔹 Plan Sport
 **Contexte :** Projet de groupe.  
 **Objectif :** Maquettage et développement d'une application iOS en Swift & SwiftUI.  
-**Technologies :** Swift, SwiftUI. 
+**Technologies :** Swift, SwiftUI. <br>
 **Compétences acquises :**
 - Idéation en groupe de 5.
 - Logique algorithmique, premiers rapports au "backend" en créant une base de données locale.
@@ -50,7 +51,7 @@ Ces derniers m’auront permis de développer aussi bien des soft skills que des
 ### 🔹 Projet 1 – Klivio
 **Contexte :** Projet individuel.  
 **Objectif :** Intégration web depuis une maquette Figma.  
-**Technologies :** HTML, CSS. 
+**Technologies :** HTML, CSS. <br>
 **Compétences acquises :**
 - Compréhension et intégration depuis une maquette.
 - Organisation et architecture du code.
@@ -62,9 +63,9 @@ Ces derniers m’auront permis de développer aussi bien des soft skills que des
 ---
 
 ### 🔹 Projet 2 – Portfolio
-**Contexte :** Projet individuel.
-**Objectif :** Développer un portfolio en Markdown grâce à Jekyll.
-**Technologies :** Markdown / HTML / CSS / Jekyll. 
+**Contexte :** Projet individuel. <br>
+**Objectif :** Développer un portfolio en Markdown grâce à Jekyll. <br>
+**Technologies :** Markdown / HTML / CSS / Jekyll. <br>
 **Compétences acquises :**
 - Segmentation du travail en tickets.
 - Meilleure gestion du temps.
@@ -93,7 +94,7 @@ Ces derniers m’auront permis de développer aussi bien des soft skills que des
 
 ## Compétences développées grâce aux projets
 
-Grâce à ces projets, j’ai appris beaucoup de nombreuses choses :
+Grâce à ces projets, j’ai pu voir ma palette de compétences s'agrandir :
 - Lire et comprendre de la documentation technique, mettre en place des frameworks techniques adaptés à ce que les énoncés nous demandent.
 - Repérer et corriger des bugs
 - Structurer, architecturer un projet
@@ -101,7 +102,7 @@ Grâce à ces projets, j’ai appris beaucoup de nombreuses choses :
 - Travailler sur des projets longs, seul ou en groupe
 - Chercher des solutions par moi-même, utilisation de LMM dans une démarche "guidée" et pédagogique
 
-	<p>Curieux.se ? Intéressé.e par mon profil ? <br> N'hésitez pas à prendre contacte avec moi, je me ferai un plaisir de vous répondre
+	<p>Curieux.se ? Intéressé.e par mon profil ? <br> N'hésitez pas à prendre contact avec moi, je me ferai un plaisir de vous répondre
     </p>
 	<ul class="actions">
 	<li><a href="{{ '/contact/' | relative_url }}" class="button next">Contactez moi</a></li>
